@@ -1,0 +1,20 @@
+[Qibo 0.2.11|INFO|2024-08-20 17:10:02]: Loading platform dummy
+[Qibo 0.2.11|INFO|2024-08-20 17:10:03]: Loading platform /nfs/tools/qibolab_platforms_qrc/iqm5q
+[38;20m[Qibocal 0.0.11|INFO|2024-08-20 17:10:03]: Trying to create directory /nfs/users/elisa.stabilini/qrctest/2024-08-20-000-elisa-stabilini[0m
+[38;20m[Qibocal 0.0.11|INFO|2024-08-20 17:10:03]: Creating directory /nfs/users/elisa.stabilini/qrctest/2024-08-20-000-elisa-stabilini.[0m
+[Qibo 0.2.11|INFO|2024-08-20 17:10:03]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x79f9b29ad8d0>.
+[Qibo 0.2.11|INFO|2024-08-20 17:10:11]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-20 17:10:11]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x79f9b29ad600>.
+[Qibo 0.2.11|INFO|2024-08-20 17:10:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x79f9b3592d40>.
+[Qibo 0.2.11|INFO|2024-08-20 17:10:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x79f9b3592e60>.
+[Qibo 0.2.11|INFO|2024-08-20 17:10:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x79f9b29afe20>.
+[Qibo 0.2.11|INFO|2024-08-20 17:10:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x79f9b29ad780>.
+[Qibo 0.2.11|INFO|2024-08-20 17:10:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x79f9b29ac5e0>.
+[Qibo 0.2.11|INFO|2024-08-20 17:10:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x79f9b29af3d0>.
+[Qibo 0.2.11|INFO|2024-08-20 17:10:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x79f9b29ad840>.
+[Qibo 0.2.11|INFO|2024-08-20 17:10:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x79f9b29ad810>.
+[Qibo 0.2.11|INFO|2024-08-20 17:10:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x79f9b29ad8a0>.
+[38;20m[Qibocal 0.0.11|INFO|2024-08-20 17:10:12]: Executing mode ACQUIRE on resonator high power high amplitude.[0m
+[Qibo 0.2.11|INFO|2024-08-20 17:10:12]: Minimal execution time (sweep): 30.9248
+[38;20m[Qibocal 0.0.11|INFO|2024-08-20 17:10:45]: Finished acquisition in 32.86 seconds[0m
+Connected to: Rohde&Schwarz SGS100A (serial:1416.0505k02/113302, firmware:4.2.76.0-4.30.046.295) in 0.26s

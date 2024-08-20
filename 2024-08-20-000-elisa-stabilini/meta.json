@@ -1,0 +1,27 @@
+{
+    "title": "2024-08-20-000-elisa-stabilini",
+    "backend": "qibolab",
+    "platform": "/nfs/tools/qibolab_platforms_qrc/iqm5q",
+    "start_time": "2024-08-20 13:10:12.215512+00:00",
+    "end_time": "2024-08-20 13:10:45.078220+00:00",
+    "stats": {
+        "resonator high power high amplitude-0": {
+            "acquisition": 32.85690229499596,
+            "fit": 0
+        }
+    },
+    "author": null,
+    "tag": null,
+    "targets": [
+        0
+    ],
+    "versions": {
+        "qibo": "0.2.11",
+        "numpy": "1.26.4",
+        "qibolab": "0.1.9",
+        "qibocal": "0.0.11"
+    },
+    "date": "2024-08-20",
+    "start-time": "13:10:12",
+    "end-time": "13:10:45"
+}
