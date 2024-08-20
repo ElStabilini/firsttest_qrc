@@ -6,5 +6,5 @@
 #SBATCH --partition=iqm5q            # Partition name
 
 # Run the qq acquire command
-qq acquire /home/users/elisa.stabilini/qrctest/tutorial0.yml
+qq acquire /home/users/elisa.stabilini/qrctest/tutorial0.yml -o /home/users/elisa.stabilini/qrctest/output
 
