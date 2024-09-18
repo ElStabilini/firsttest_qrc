@@ -1,2 +1,2 @@
 # qrctest
-Repository with material for testing the qrc setup
+Repository with material for testing the qrc SLURM setup
